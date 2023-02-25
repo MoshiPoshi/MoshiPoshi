@@ -6,16 +6,22 @@ Currently studying full stack engineering & Beginner Game developer
 
 i'm currently studying in SE ALX to be a full stack developer in software engineering and i'm really interested in Game development
 
-*   🌍  I'm based in Agadir
-*   🖥️  See my portfolio at [ArtStation](http://www.artstation.com/moshiposhi)
-*   ✉️  You can contact me at [mouadbouissel@gmail.com](mailto:mouadbouissel@gmail.com)
-*   🚀  I'm currently working on [Itch.io](http://moshiposhi.itch.io/)
-*   🧠  I'm learning Software engineering & Game Development
-*   🤝  I'm open to collaborating on some really interesting projects related to Game development
-*   ⚡  just a normal guy who's trying to learn new stuffs everyday<a href="https://www.github.com/MoshiPoshi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/MoshiPoshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/moshixposhi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/moshixposhi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Agadir
+* 🖥️  See my portfolio at [ArtStation](http://www.artstation.com/moshiposhi)
+* ✉️  You can contact me at [mouadbouissel@gmail.com](mailto:mouadbouissel@gmail.com)
+* 🚀  I'm currently working on [Itch.io](http://moshiposhi.itch.io/)
+* 🧠  I'm learning Software engineering & Game Development
+* 🤝  I'm open to collaborating on some really interesting projects related to Game development
+* ⚡  just a normal guy who's trying to learn new stuffs everyday
+
+<a href="https://www.github.com/MoshiPoshi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MoshiPoshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/moshixposhi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/moshixposhi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -29,23 +35,22 @@ i'm currently studying in SE ALX to be a full stack developer in software engine
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/MoshiPoshi#0835" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/MouadBouissel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/MoshiPoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/mouad.bouissel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/moshixposhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/MoshiPoshi"><img src="https://github-readme-stats.vercel.app/api?username=MoshiPoshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MoshiPoshi's GitHub stats" /></a><a
-                      href="http://www.github.com/MoshiPoshi"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=MoshiPoshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/MoshiPoshi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MoshiPoshi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/MoshixPoshi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/MoshiPoshi#0835" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/MouadBouissel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MoshiPoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mouad.bouissel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/moshixposhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MoshiPoshi"><img src="https://github-readme-stats.vercel.app/api?username=MoshiPoshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MoshiPoshi's GitHub stats" /></a>
+
+<a href="http://www.github.com/MoshiPoshi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoshiPoshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/MoshiPoshi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MoshiPoshi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/MoshixPoshi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
