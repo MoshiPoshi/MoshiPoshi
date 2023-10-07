@@ -7,12 +7,9 @@ Currently studying full stack engineering & Beginner Game developer
 i'm currently studying in SE ALX to be a full stack developer in software engineering and i'm really interested in Game development
 
 * 🌍  I'm based in Agadir
-* 🖥️  See my portfolio at [ArtStation](http://www.artstation.com/moshiposhi)
 * ✉️  You can contact me at [mouadbouissel@gmail.com](mailto:mouadbouissel@gmail.com)
-* 🚀  I'm currently working on [Itch.io](http://moshiposhi.itch.io/)
-* 🧠  I'm learning Software engineering & Game Development
-* 🤝  I'm open to collaborating on some really interesting projects related to Game development
-* ⚡  just a normal guy who's trying to learn new stuffs everyday
+* 🧠  I'm learning Software engineering
+* 🤝  I'm open to collaborating on projects
 
 <a href="https://www.github.com/MoshiPoshi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MoshiPoshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/moshixposhi" target="_blank" rel="noreferrer"><img
