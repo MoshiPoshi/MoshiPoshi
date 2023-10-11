@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mouad Bouisselman
 =========================================================================================================================================
 
-Currently studying full stack engineering & Beginner Game developer
+Currently studying full stack engineering
 -------------------------------------------------------------------
 
-i'm currently studying in SE ALX to be a full stack developer in software engineering and i'm really interested in Game development
+i'm currently studying in SE ALX to be a full stack developer in software engineering
 
 * 🌍  I'm based in Agadir
 * ✉️  You can contact me at [mouadbouissel@gmail.com](mailto:mouadbouissel@gmail.com)
